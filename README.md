@@ -50,4 +50,4 @@ Open `ProjectFRXViewer.vbp` in the VB6 IDE and compile. No external OCX dependen
 
 ## Author
 
-Lewis Miller (Fire Hades)
+Lewis Miller (vbLewis)
