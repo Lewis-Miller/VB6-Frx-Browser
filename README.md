@@ -45,7 +45,7 @@ Open `ProjectFRXViewer.vbp` in the VB6 IDE and compile. No external OCX dependen
 ## Notes
 
 - Control array index tracking uses a simple stack so nested containers and `Index` properties are handled correctly.
-- Picture headers cover the common VB6 variants (standard 12-byte, CLSID_StdPicture, OLE streams used by AlphaImageControl, etc.).
+- Picture headers cover the common VB6 variants (standard 12-byte, CLSID_StdPicture, OLE streams used by Custom Controls).
 - PropertyBag decoding and icon pack/unpack are pure VB6.
 
 ## Author
