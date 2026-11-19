@@ -24,6 +24,8 @@ It parses the various binary formats VB6 uses to store pictures, icons, ImageLis
 - Standalone FRX carving (finds pictures even without the matching `.frm`)
 - GDI+ based image loading and strip generation
 
+<img src="ss.png" alt="VB6 FRX Browser screenshot" width="700">
+
 ## Project Structure
 
 | File | Purpose |
