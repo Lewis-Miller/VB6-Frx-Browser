@@ -33,7 +33,6 @@ It parses the various binary formats VB6 uses to store pictures, icons, ImageLis
 | `frmExportOpts.frm` | Export options dialog |
 | `modVars.bas` | Core FRX parsing, extraction, and resource types |
 | `modGDIPlusLite.bas` | Lightweight GDI+ helpers for preview and strip export |
-| `modGDIPlusImage.bas` | Full GDI+ image library (optional / larger) |
 | `modCommDlg.bas` | Open/Save/Browse folder dialogs |
 | `modFileAll.bas` | File path and helper functions |
 | `modMain.bas` | Startup and settings helpers |
