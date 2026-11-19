@@ -14,7 +14,7 @@ It parses the various binary formats VB6 uses to store pictures, icons, ImageLis
   - ImageList / Toolbar strips (export as individual files or horizontal PNG strip)
   - Strings, multi-line text, RTF, Combo/List `.List` and `.ItemData`
   - VB6 PropertyBags (decoded to readable key=value text)
-  - Custom ActiveX blobs, including RIIFS, WAVS, MIDI and OLE `.Effects`
+  - Custom ActiveX blobs, including RIIFS, WAVS, MIDI and OLE
 - Hex viewer for any resource
 - Batch export with options:
   - Pack multi-res icons into one `.ico`
